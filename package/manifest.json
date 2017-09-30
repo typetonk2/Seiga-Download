@@ -31,6 +31,8 @@
   "permissions": [
       "http://lohas.nicoseiga.jp/",
       "http://seiga.nicovideo.jp/",
+      "https://lohas.nicoseiga.jp/",
+      "https://seiga.nicovideo.jp/",
       "downloads"
   ],
   "web_accessible_resources": [
